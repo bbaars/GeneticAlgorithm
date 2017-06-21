@@ -1,0 +1,22 @@
+@Author: Brandon Baars <brandon>
+@Date:   Sunday, June 18th 2017, 11:06:14 pm
+@Filename: results5.txt
+@Last modified by:   brandon
+@Last modified time: Sunday, June 18th 2017, 11:09:56 pm
+
+POPULATION = 50;
+
+
+Generation: 1 Fitness:  rgb(52,114,137) Fitness: 673
+Generation: 2 Fitness:  rgb(58,115,135) Fitness: 664
+Generation: 3 Fitness:  rgb(45,111,138) Fitness: 684
+Generation: 4 Fitness:  rgb(48,99,138) Fitness: 689
+Generation: 5 Fitness:  rgb(45,97,146) Fitness: 698
+Generation: 6 Fitness:  rgb(38,97,147) Fitness: 706
+Generation: 7 Fitness:  rgb(30,101,150) Fitness: 721
+Generation: 8 Fitness:  rgb(32,104,156) Fitness: 722
+Generation: 9 Fitness:  rgb(22,103,160) Fitness: 737
+Generation: 10 Fitness:  rgb(20,101,158) Fitness: 739
+Generation: 11 Fitness:  rgb(11,103,157) Fitness: 745
+Generation: 12 Fitness:  rgb(10,98,165) Fitness: 751
+Generation: 13 Fitness:  rgb(0,101,164) Fitness: 765

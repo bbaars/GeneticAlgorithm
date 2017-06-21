@@ -1,0 +1,6 @@
+Generation: 1 Fitness:  rgb(10,97,143) Fitness: 730
+Generation: 2 Fitness:  rgb(4,102,147) Fitness: 743
+Generation: 3 Fitness:  rgb(5,100,155) Fitness: 750
+Generation: 4 Fitness:  rgb(0,104,164) Fitness: 762
+Generation: 5 Fitness:  rgb(4,106,162) Fitness: 754
+Generation: 6 Fitness:  rgb(0,101,164) Fitness: 765

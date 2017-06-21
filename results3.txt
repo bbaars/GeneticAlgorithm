@@ -1,0 +1,11 @@
+@Author: Brandon Baars <brandon>
+@Date:   Sunday, June 18th 2017, 11:02:31 pm
+@Filename: results3.txt
+@Last modified by:   brandon
+@Last modified time: Sunday, June 18th 2017, 11:08:38 pm
+
+POPULATION = 100
+
+Generation: 1 Fitness:  rgb(3,95,170) Fitness: 750
+Generation: 2 Fitness:  rgb(2,94,178) Fitness: 742
+Generation: 3 Fitness:  rgb(0,101,164) Fitness: 765
